@@ -3,7 +3,7 @@ import Navbar from './Navbar'
 
 const Header = () => {
   return (
-    <div className='min-h-screen mb-4 bg-cover bg-center flex items-center w-full overflow-hidden'       style={{ backgroundImage: "url('https://api.deepai.org/job-view-file/3c06cadc-1914-4feb-a5cd-91d104be6e03/outputs/output.jpg')" }}
+    <div className='min-h-screen mb-4 bg-cover bg-center flex items-center w-full overflow-hidden'       style={{ backgroundColor: "black" }}
 
     id="Header">
     <Navbar/>
